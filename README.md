@@ -7,3 +7,5 @@ Questo ? lo scopo
 ## Deployment
 Questa ? la parte di sviluppo
 ## How to contribute
+### Copyright
+2019 Git training
